@@ -3,7 +3,7 @@ int numeroPar = 0;
 
 do
 { 
-    Console.Write("Digite um némero inteiro e positivo:...");
+    Console.Write("Digite um número inteiro e positivo:...");
     Int32.TryParse(Console.ReadLine(), out numero);
     
 } 
